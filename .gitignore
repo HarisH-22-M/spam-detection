@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+*.joblib
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Kaggle / API keys
+kaggle.json
+.kaggle/
+
+# Data files
+*.csv
+*.xlsx
+*.json
+*.db
+*.sqlite3
+*.zip
+
+# Logs and cache
+*.log
+*.tmp
+*.bak
+.DS_Store
+*.swp
+__MACOSX/
+.cache/
+.idea/
+.vscode/
+
+# Deployment artifacts
+build/
+dist/
+*.egg-info/
